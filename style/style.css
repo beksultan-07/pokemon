@@ -19,6 +19,7 @@ html, body{
 }
 .pokemon{
     flex: 1;
+    width: 300px;
     background: #EEECEE;
     border: 1px dashed #333;
     margin-right: 10px;
